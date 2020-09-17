@@ -8,9 +8,9 @@ setup(
   author = 'Asapanna Rakesh',                   # Type in your name
   author_email = 'rakeshark22@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/rakesh4real/pypi-package-template',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/rakesh4real/pypi-package-template/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/rakesh4real/pypi-package-template/archive/0.1.tar.gz',  # link pasted from release
   keywords = ['Keras', 'hyperparameters', 'hyperparameters tuning'],   # Keywords that define your package best
-  install_requires=[            # I get to this in a second
+  install_requires=[        
           'keras',
       ],
   classifiers=[
